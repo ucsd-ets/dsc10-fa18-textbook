@@ -7,7 +7,7 @@ title_separator          : "-"
 name                     : "UC San Diego DSC10 Textbook"
 description              : ""
 url                      : "https://ucsd-ets.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/dsc10-fa18-textbook" # the subpath of your site, e.g. "/blog"
 #repository               : "ucsd-ets/ucsd-ets.github.io" # GitHub username/repo-name for this site
 repository               : "ucsd-ets/dsc10-fa18-textbook" # GitHub username/repo-name for this site
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
