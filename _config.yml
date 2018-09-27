@@ -20,7 +20,7 @@ hub_name                 : "UC San Diego jupyterhub"  # The name of your Jupyter
 hub_type                 : "jupyterhub"  # ['binder', 'jupyterhub']  Whether to build interact links for a BinderHub or a JupyterHub
 textbook_repo_base       : "https://github.com/"  # The site on which the textbook repository is hosted
 textbook_repo_org        : "ucsd-ets"  # The username or organization that owns this repository
-textbook_repo_name       : "ucsd-ets.github.io"  # The name of the repository on the web
+textbook_repo_name       : "dsc10-fa18-textbook"  # The name of the repository on the web
 textbook_repo_branch     : "master"  # The branch on which your textbook is hosted.
 number_chapters          : false  # Whether to number the chapers in the sidebar for the textbook
 chapter_titles           : true  # Whether to include the title of the chapter at the top of each chapter
