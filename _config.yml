@@ -1,7 +1,5 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-theme                    : "Architect"
-
 # Site Settings
 locale                   : "en-US"
 title                    : "DSC10 Textbook"
